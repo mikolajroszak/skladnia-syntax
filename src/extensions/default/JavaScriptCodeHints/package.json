@@ -1,7 +1,7 @@
 {
   "name": "brackets-javascript-code-hints",
   "dependencies": {
-    "acorn": "3.3.0",
+    "acorn": "8.10.0",
     "tern": "0.20.0"
   },
   "scripts": {
